@@ -12,6 +12,7 @@ Este repositorio contiene el análisis de datos, limpieza y modelos de Machine L
 *  [Ver Dashboard y Gráficas (Código)](Graficas_car_sales.ipynb)
 *  [Ver Reporte de Limpieza de Datos](Mi reporte de limpieza de DB.pdf)
 *  [Ver Base de Datos Limpia (CSV)](Base_Limpia_Car_Prices.csv)
+*  Link del video: https://www.youtube.com/watch?v=qMh48WW58&start_radio=1
 
 **Autor:** Giovanni Leonel Chillopa Martínez
 **Materia:** Introducción a la Ciencia de Datos

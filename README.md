@@ -8,10 +8,10 @@ Este repositorio contiene el análisis de datos, limpieza y modelos de Machine L
 
  Documentación del Proyecto
 
-*  [Ver Reporte Final del Proyecto](Reporte Final GLCM.pdf)**
-*  [Ver Dashboard y Gráficas (Código)](Graficas_car_sales.ipynb)**
-*  [Ver Reporte de Limpieza de Datos](Mi reporte de limpieza de DB.pdf)**
-*  [Ver Base de Datos Limpia (CSV)](Base_Limpia_Car_Prices.csv)**
+*  [Ver Reporte Final del Proyecto](Reporte Final GLCM.pdf)
+*  [Ver Dashboard y Gráficas (Código)](Graficas_car_sales.ipynb)
+*  [Ver Reporte de Limpieza de Datos](Mi reporte de limpieza de DB.pdf)
+*  [Ver Base de Datos Limpia (CSV)](Base_Limpia_Car_Prices.csv)
 
 **Autor:** Giovanni Leonel Chillopa Martínez
 **Materia:** Introducción a la Ciencia de Datos
